@@ -1,22 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+   
   - title: "CV"
-    url: /cv/
+    url: /https://drive.google.com/file/d/1RymKayVdu4z1QwaET9dCEbX9pJGJgj1M/view?usp=sharing/
     
-  - title: "Guide"
-    url: /markdown/
