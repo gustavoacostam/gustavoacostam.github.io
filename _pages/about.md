@@ -12,7 +12,7 @@ redirect_from:
 
 ## About me
 
-I hold a bachelor's degree in Economics at the Pontifical Catholic University of Peru (PUCP). I started working at Innovations for Poverty Action (IPA) in 2018, assisting and managing fieldwork activities of large scale RCTs in Peru and Paraguay. I am currently working as a Research Assitant for proffesor Erica Field on [research projects](https://www.poverty-action.org/study/training-local-leaders-prevent-gender-based-violence-peru) aimed at reducing violence against women in Peru. My major interests are development economics, labor, health and gender. 
+I hold a bachelor's degree in Economics at the Pontifical Catholic University of Peru (PUCP). I started working at Innovations for Poverty Action (IPA) in 2018, assisting and managing fieldwork activities of large scale RCTs in Peru and Paraguay. I am currently working as a Research Associate for professor Erica Field on [research projects](https://www.poverty-action.org/study/training-local-leaders-prevent-gender-based-violence-peru) aimed at reducing violence against women in Peru. My major interests are development economics, labor, health and gender. 
 
 
 ### Contact
