@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Gustavo Acosta"
 title_separator          : "-"
 name                     : &name "Gustavo Acosta"
-description              : &description "Research Associate at Innovations for Poverty Action"
+description              : &description "Research Associate at Duke University"
 url                      : https://gustavoacostam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gustavoacostam/gustavoacostam.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Gustavo Acosta"
   avatar           : "Github_photo.jpg"
-  bio              : "Research Associate at Innovations for Poverty Action"
-  location         : "Lima, Peru"
+  bio              : "Research Associate at Duke University"
+  location         : "Durham, North Carolina"
   employer         :
   pubmed           : 
   googlescholar    : 
