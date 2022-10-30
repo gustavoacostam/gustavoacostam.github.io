@@ -16,5 +16,5 @@ I am a Pre-Doctoral Research Fellow in Economics at Duke University, where I wor
 
 ### Contact
 
-You can contact me at: [gacostam@pucp.pe](mailto:gacostam@pucp.pe?subject=[GitHub]%20Source%20Han%20Sans)
+You can contact me at: [gustavo.acosta@duke.edu](mailto:gustavo.acosta@duke.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
