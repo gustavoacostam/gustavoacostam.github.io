@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Gustavo Acosta"
 title_separator          : "-"
 name                     : &name "Gustavo Acosta"
-description              : &description "Research Associate at Duke University"
+description              : &description "Pre-Doctoral Ressearch Fellow in Economics at Duke University"
 url                      : https://gustavoacostam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gustavoacostam/gustavoacostam.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Gustavo Acosta"
   avatar           : "Github_photo.jpg"
-  bio              : "Research Associate at Duke University"
+  bio              : "Pre-Doctoral Ressearch Fellow in Economics at Duke University"
   location         : "Durham, North Carolina"
   employer         :
   pubmed           : 
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/gustavo-acosta-4ba9571ba/
   orcid            : 
   pinterest        :
   soundcloud       :
