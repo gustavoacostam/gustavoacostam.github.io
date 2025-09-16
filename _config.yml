@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Gustavo Acosta"
 title_separator          : "-"
 name                     : &name "Gustavo Acosta"
-description              : &description "Pre-Doctoral Ressearch Fellow in Economics at Duke University"
+description              : &description "PhD Student in Economics at the University of Michigan"
 url                      : https://gustavoacostam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gustavoacostam/gustavoacostam.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Gustavo Acosta"
   avatar           : "Github_photo.jpg"
-  bio              : "Pre-Doctoral Ressearch Fellow in Economics at Duke University"
-  location         : "Durham, North Carolina"
+  bio              : "PhD Student in Economics at the University of Michigan"
+  location         : "Ann Arbor, University of Michigan"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "gustavo.acosta@duke.edu"
+  email            : "gustavoa@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
