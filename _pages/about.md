@@ -12,9 +12,9 @@ redirect_from:
 
 ## About me
 
-I am a Pre-Doctoral Research Fellow in Economics at Duke University, where I work with professors Erica Field, Robert Garlick, Kate Vyborny, and Livia Schubiger on labor and health projects in Pakistan and Peru. Previously, I was a Research Associate at Innovations for Poverty Action in Paraguay and Peru working on research projects related to gender-based violence, poverty, financial inclusion, and machine learning. My major research interests hover around applied microeconomics, development, labor, health, behavioral, and gender.
+I am a PhD student in Economics at the University of Michigan. My research focuses on Development Economics, Global Health Economics, and Labor Economics, with projects in Ghana, Malawi, Peru, and Uganda. Previously, I was a Pre-Doctoral Research Fellow in Economics at Duke University, where I worked on labor and health projects in Pakistan and Peru. Before that, I served as a Research Associate at Innovations for Poverty Action in Paraguay and Peru.
 
 ### Contact
 
-You can contact me at: [gustavo.acosta@duke.edu](mailto:gustavo.acosta@duke.edu?subject=[GitHub]%20Source%20Han%20Sans)
+You can contact me at: [gustavoa@umich.edu](mailto:gustavoa@umich.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
