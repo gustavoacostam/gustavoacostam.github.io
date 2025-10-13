@@ -12,7 +12,7 @@ redirect_from:
 
 ## About me
 
-I am a PhD student in Economics at the University of Michigan. My research focuses on Development Economics, Global Health Economics, and Labor Economics, with projects in Ghana, Malawi, Peru, and Uganda. Previously, I was a Pre-Doctoral Research Fellow in Economics at Duke University, where I worked on labor and health projects in Pakistan and Peru. Before that, I served as a Research Associate at Innovations for Poverty Action in Paraguay and Peru.
+I am a third-year PhD student in Economics at the University of Michigan. My research focuses on Development Economics, Global Health Economics, and Labor Economics, with projects in Ghana, Malawi, Peru, and Uganda. Previously, I was a Pre-Doctoral Research Fellow in Economics at Duke University, where I worked on labor and health projects in Pakistan and Peru. Before that, I served as a Research Associate at Innovations for Poverty Action in Paraguay and Peru.
 
 ### Contact
 
