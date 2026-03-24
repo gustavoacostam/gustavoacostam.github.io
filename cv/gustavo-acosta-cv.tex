@@ -3,15 +3,15 @@
 % Author : Gustavo Acosta
 %------------------------
 
+\PassOptionsToPackage{dvipsnames}{xcolor}
 \documentclass[letterpaper,10pt]{article}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{lmodern}
+\usepackage{newtxtext}
 \usepackage[margin=0.5in,top=0.47in,bottom=0.55in]{geometry}
 \usepackage{microtype}
 \usepackage{titlesec}
-\usepackage[usenames,dvipsnames]{color}
 \usepackage{enumitem}
 \usepackage[pdftex]{hyperref}
 \usepackage{fancyhdr}
@@ -28,22 +28,22 @@
 \raggedright
 \setlength{\parindent}{0pt}
 \setlength{\tabcolsep}{0in}
-\setlist[itemize]{leftmargin=*, itemsep=0.25pt, topsep=0.5pt, parsep=0pt, partopsep=0pt}
-\linespread{0.98}
+\setlist[itemize]{leftmargin=*, itemsep=0pt, topsep=0.5pt, parsep=0pt, partopsep=0pt}
+\linespread{1.0}
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-2pt}\scshape\raggedright\normalsize
+  \vspace{-1pt}\scshape\raggedright\normalsize
 }{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
-\titlespacing*{\section}{0pt}{4pt}{2pt}
+\titlespacing*{\section}{0pt}{5pt}{3pt}
 
 % Custom commands
 \newcommand{\resumeSubheading}[4]{
-  \vspace{-1pt}\item
+  \vspace{0pt}\item
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       \textit{#3} & \textit{#4} \\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabular*}\vspace{-4pt}
 }
 
 \newcommand{\resumeItem}[1]{
@@ -55,7 +55,7 @@
 }
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0pt,label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{-3pt}}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{-2pt}}
 
 \begin{document}
 
