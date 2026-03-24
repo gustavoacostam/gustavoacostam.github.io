@@ -1,0 +1,218 @@
+%-------------------------
+% CV in LaTeX
+% Author : Gustavo Acosta
+%------------------------
+
+\documentclass[letterpaper,9pt]{extarticle}
+
+\usepackage[margin=0.52in,top=0.5in,bottom=0.58in]{geometry}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{0in}
+\setlist[itemize]{leftmargin=*, itemsep=0.5pt, topsep=1pt, parsep=0pt, partopsep=0pt}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-3pt}\scshape\raggedright\small
+}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
+\titlespacing*{\section}{0pt}{5pt}{2pt}
+
+% Custom commands
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeItem}[1]{
+  \item \small{#1}
+}
+
+\newcommand{\resumeSubItem}[1]{
+  \item \small{#1}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0pt,label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{-4pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://gustavoacostam.github.io/}{\Large Gustavo Acosta}}
+  & \href{mailto:gustavoa@umich.edu}{gustavoa@umich.edu} \\
+  \href{https://github.com/gustavoacostam/}{GitHub}
+  &
+\end{tabular*}
+
+%-----------FIELDS-----------
+\section{Fields of Interest}
+Development Economics, Global Health Economics, Labor Economics
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {University of Michigan}{}{Ph.D. Candidate in Economics}{2023--Present}
+  \resumeSubheading
+    {University of Michigan}{}{M.A. in Economics (Pathway to Ph.D.)}{2025}
+  \resumeSubheading
+    {Pontifical Catholic University of Peru (PUCP)}{}{B.Sc. in Economics}{2013--2018}
+\resumeSubHeadingListEnd
+
+%-----------RESEARCH EXPERIENCE-----------
+\section{Research Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {University of Michigan}{}{Research Associate}{2024--2025}
+    \begin{itemize}
+      \resumeItem{PI: Emma Riley. Project on adolescent girls' economic and social empowerment in Tanzania (2025).}
+      \resumeItem{PI: Elisa Maffioli. Projects on malaria vaccines and fake drugs in Africa (2024--2025).}
+    \end{itemize}
+
+  \resumeSubheading
+    {Duke University}{}{Pre-Doctoral Research Fellow}{2020--2023}
+    \begin{itemize}
+      \resumeItem{PIs: Erica Field, Robert Garlick, and Katherine Vyborny. Projects in Peru and Pakistan on health, gender, labor markets, and survey methodology.}
+    \end{itemize}
+
+  \resumeSubheading
+    {Innovations for Poverty Action}{}{Senior Research Associate}{2018--2020}
+    \begin{itemize}
+      \resumeItem{Peru. PIs: Erica Field, Livia Schubiger, and Javier Romero. Projects on health and gender-based violence.}
+      \resumeItem{Paraguay. PI: Nathan Fiala. Projects on poverty and financial inclusion.}
+    \end{itemize}
+
+\resumeSubHeadingListEnd
+
+%-----------WORKING PAPERS-----------
+\section{Working Papers}
+\resumeSubHeadingListStart
+
+  \resumeSubItem{Are Insiders or Community Leaders Effective in Identifying Intimate Partner Violence? With Erica Field. Draft available upon request.}
+  \resumeSubItem{Text Messaging for Mental Health Management During the COVID-19 Pandemic. With Erica Field, Daniel Hurtado, and Javier Romero. Draft available upon request.}
+  \resumeSubItem{Imprecise Beliefs About Malaria Infection Risk and Vaccine Protection in Ghana (Third-Year Paper). Draft available upon request.}
+  \resumeSubItem{Higher Education Reforms and Political Outcomes. With Leah Lakdawala and Fabiola Alba. Draft available upon request.}
+
+\resumeSubHeadingListEnd
+
+%-----------WORK IN PROGRESS-----------
+\section{Work in Progress}
+
+\resumeSubHeadingListStart
+  \resumeSubItem{Enhancing Women's Safety in Public Spaces: Training Community Volunteers to Reduce Gender-Based Violence in Peru. With Marcia Ruiz and Guiliana Campos. Pilot completed, with data collection scheduled for 2026.}
+  \resumeSubItem{Sustaining Public Infrastructure: A Gender-Informed Behavioral Intervention for Housing Maintenance in Peru. With Marcia Ruiz and Emily Saavedra. Baseline completed, with data collection scheduled for 2026.}
+  \resumeSubItem{Targeting Men to Reduce Domestic Violence: An Evaluation of Men for Equality. With Erica Field. Baseline completed, with endline data collection scheduled for 2026.}
+  \resumeSubItem{Sustaining Shared Urban Sanitation in Uganda. With Marcia Ruiz and Laston Manja. Pilot completed, with data collection scheduled for 2026.}
+  \resumeSubItem{The Price of Safety: The Effects of Extortion on Small-Scale Entrepreneurship in Peru. With Gabby Lecaro. Data collection scheduled for 2026.}
+  \resumeSubItem{Formal Savings Adoption Among Vulnerable Populations in Colombia: Evidence from a Banca de las Oportunidades Intervention. With Tommaso Crosta. Implementation funding secured, with fieldwork preparation underway for 2026.}
+  \resumeSubItem{Providing Real-Time, Accurate Data to Increase Malaria Vaccine Completion Rates in Ghana. With Jessica Cohen and Elisa Maffioli. Baseline completed.}
+  \resumeSubItem{Mitigating the Impact of Health and Climate Shocks on School Performance in Malawi: The Role of School Management Structures. With Laston Manja.}
+  \resumeSubItem{Evaluating OCP Nigeria's Farm \& Fortune Hubs and OCP School Lab. With Nilesh Fernando. Design stage.}
+  \resumeSubItem{School Feeding and Human Capital Development in Peru. With Muchin Bazan and Shahadath Hossain.}
+\resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------
+\section{Pre-Doctoral Publications}
+\resumeSubHeadingListStart
+  \resumeSubItem{Acosta, G. and P. Francke. 2021. \href{http://revistas.up.edu.pe/index.php/apuntes/article/view/1228/1525}{``Impact of the Qali Warma School Feeding Program on Chronic Child Malnutrition.''} \textit{Apuntes}.}
+  \resumeSubItem{Acosta, G. and P. Francke. 2020. \href{http://www.scielo.org.pe/pdf/rmh/v31n3/1729-214X-rmh-31-03-148.pdf}{``Impact of Micronutrients `Sprinkles' on Chronic Childhood Malnutrition in Peru.''} \textit{Revista M\'edica Herediana}.}
+\resumeSubHeadingListEnd
+
+%-----------POLICY NOTES-----------
+\section{Policy Notes}
+\resumeSubHeadingListStart
+  \resumeSubItem{Acosta, G., E. Field, H. Khan, and K. Vyborny. 2023. \textit{Lockdowns and Learning Outcomes: Insights from 10th Grade Examination Results in Pakistan}. C-19 Notes, PEDL.}
+\resumeSubHeadingListEnd
+
+%-----------AWARDS-----------
+\section{Awards, Fellowships, and Grants}
+\resumeSubHeadingListStart
+  \resumeSubItem{Peruvian Government Funding through IPA Peru, \textit{Targeting Men to Reduce Domestic Violence: An Evaluation of Men for Equality}. Co-PI with Erica Field --- USD \$90,000 (2026).}
+  \resumeSubItem{Marshall Weinberg Population, Development and Climate Change Fellowship, Institute for Social Research, University of Michigan, \textit{Sustaining Shared Urban Sanitation in Uganda}. Lead-PI with Marcia Ruiz and Laston Manja --- USD \$8,500 (2026).}
+  \resumeSubItem{J-PAL Crime and Violence Initiative (CVI), Pre-Approval, \textit{Sexual Harassment in Peru}. Lead-PI with Marcia Ruiz --- USD \$50,000 (2026).}
+  \resumeSubItem{Sexual Violence Research Initiative (SVRI), \textit{Sexual Harassment in Peru}. Lead-PI with Marcia Ruiz and Pedro Francke --- USD \$100,000 (2026).}
+
+  \resumeSubItem{The Weiss Fund, \textit{Sexual Harassment in Peru}. --- USD \$25,000 (2025).}
+  \resumeSubItem{University of Michigan PACLSHR, \textit{Sexual Harassment in Peru}. --- USD \$6,000 (2025).}
+  \resumeSubItem{Rackham Graduate Student Research Grant, \textit{Sexual Harassment in Peru}. --- USD \$1,500 (2025).}
+  \resumeSubItem{Rackham Graduate Student Research Grant, \textit{Extortion in Peru}. Co-PI with Gabby Lecaro --- USD \$1,500 (2025).}
+
+  \resumeSubItem{Sylff Research Grant, \textit{Sustaining Public Infrastructure in Peru}. Lead-PI with Marcia Ruiz --- USD \$10,000 (2025).}
+  \resumeSubItem{Rackham Graduate Student Research Grant, \textit{Sustaining Public Infrastructure in Peru}. Co-PI with Marcia Ruiz --- USD \$1,500 (2025).}
+  \resumeSubItem{Marshall Weinberg Population, Development and Climate Change Fellowship, Institute for Social Research, University of Michigan, \textit{Sustaining Public Infrastructure in Peru}. Lead-PI with Marcia Ruiz --- USD \$8,500 (2025).}
+
+  \resumeSubItem{International Growth Centre (IGC) Grant, \textit{Sustaining Shared Urban Sanitation in Uganda}. Lead-PI with Marcia Ruiz and Laston Manja --- USD \$28,500 (2025).}
+
+  \resumeSubItem{The Weiss Fund, \textit{Ghana Malaria Vaccine Adherence RCT}. Co-Investigator, with Jessica Cohen and Elisa Maffioli. USD \$199,000 (2025).}
+  \resumeSubItem{Global Development Incubator, \textit{Ghana Malaria Vaccine Adherence RCT}. Co-Investigator, with Jessica Cohen and Elisa Maffioli. USD \$1,220,000 (2025).}
+
+  \resumeSubItem{Economic and Social Research Consortium (CIES/USAID), \textit{Peruvian Public Health System: A Machine Learning Approach}. With Pedro Francke --- USD \$5,000 (2020).}
+  \resumeSubItem{National Institute of Statistics and Information (INEI), \textit{The Effects of Social Programs on Malnutrition} --- USD \$7,000 (2019).}
+  \resumeSubItem{Superintendence of Banks, Insurance and PFAs, Scholarship for Advanced Economics Program (2018).}
+  \resumeSubItem{PUCP Economics Department, First Place in Research Paper Thesis Competition (2018).}
+  \resumeSubItem{International Student Exchange Program Scholarship, Australian National University --- AUD \$5,000 (2017).}
+\resumeSubHeadingListEnd
+
+%-----------PRESENTATIONS-----------
+\section{Seminars and Conferences}
+\resumeSubHeadingListStart
+  \resumeSubItem{RIDGE Summer School, Barbados. May 2026.}
+  \resumeSubItem{Arnold Ventures BRIDGE Event on Online Harassment and Stalking, Washington, DC. April 2026.}
+  \resumeSubItem{Midwest Economics Association Conference, Chicago, IL (participant). March 2026.}
+  \resumeSubItem{University of Ghana School of Public Health Seminar, Accra, Ghana. ``Imprecise Beliefs About Malaria Infection Risk and Vaccine Protection in Ghana.'' October 2025.}
+  \resumeSubItem{Empirical Study of Gender (EGEN) Pakistan Workshop II, CERP, Lahore, Pakistan. ``Impact of the COVID-19 Pandemic on Labor Markets in Pakistan.'' March 2022.}
+  \resumeSubItem{DevLab Seminar, Duke University, Durham, NC. ``Impact of the COVID-19 Pandemic on Labor Markets in Pakistan.'' November 2021.}
+  \resumeSubItem{CIES Annual Research Seminar, Lima, Peru. With Pedro Francke and Diego Quispe. ``At the Other Extreme: Does the Qali Warma Program Increase the Incidence of Overweight and Obesity Among Boys and Girls Ages 3 to 5?'' November 2020.}
+  \resumeSubItem{\href{https://www.poverty-action.org/event/ipa-peru-presents-results-gender-based-violence-study}{Presentation of Pilot Results from a Group-Based Intervention to Peru's Minister of Women}, Lima, Peru. February 2020.}
+\resumeSubHeadingListEnd
+
+%-----------CURRENT COLLABORATIONS-----------
+\section{Current Collaborations}
+\resumeSubHeadingListStart
+  \resumeSubItem{Ministry of Women and Vulnerable Populations, Peru, 2018--Present}
+  \resumeSubItem{Ministry of Housing, Construction, and Sanitation, Peru, 2024--Present}
+  \resumeSubItem{Ghana Health Services, Ghana, 2025--Present}
+  \resumeSubItem{Ministry of Lands, Housing and Urban Development, Uganda, 2025--Present}
+  \resumeSubItem{Ministry of Health, Uganda, 2026--Present}
+  \resumeSubItem{Kampala Capital City Authority, Uganda, 2025--Present}
+  \resumeSubItem{Banca de las Oportunidades, Colombia, 2026--Present}
+\resumeSubHeadingListEnd
+
+%-----------TEACHING EXPERIENCE-----------
+\section{Teaching Experience}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {University of Michigan}{}{Teaching Assistant, Economics 101}{2024--2026}
+  \resumeSubheading
+    {Pontifical Catholic University of Peru}{}{Adjunct Professor, Thesis Seminar I}{2026}
+  \resumeSubheading
+    {Pontifical Catholic University of Peru}{}{Teaching Assistant, Macroeconomics}{2018}
+\resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Skills}
+\resumeSubHeadingListStart
+  \resumeSubItem{\textbf{Software}: Stata, R, Julia, Python, Matlab, SurveyCTO, Qualtrics, \LaTeX}
+  \resumeSubItem{\textbf{Languages}: Spanish (native), English (professional proficiency), Chinese (basic proficiency)}
+\resumeSubHeadingListEnd
+
+\end{document}
