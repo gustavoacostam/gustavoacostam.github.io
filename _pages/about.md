@@ -12,9 +12,8 @@ redirect_from:
 
 ## About me
 
-I am a third-year PhD student in Economics at the University of Michigan. My research focuses on Development Economics, Global Health Economics, and Labor Economics, with projects in Ghana, Malawi, Peru, and Uganda. Previously, I was a Pre-Doctoral Research Fellow in Economics at Duke University, where I worked on labor and health projects in Pakistan and Peru. Before that, I served as a Research Associate at Innovations for Poverty Action in Paraguay and Peru.
+I am a Ph.D. candidate in Economics at the University of Michigan. My primary fields are Development Economics and Labor Economics, and my secondary fields are Behavioral and Experimental Economics and Health Economics. My research studies human capital, health, safety, and labor-market behavior, with ongoing projects in Ghana, Peru, Uganda, and Colombia. Previously, I was a Pre-Doctoral Research Fellow at Duke University, where I worked on health, gender, labor markets, and survey methodology in Peru and Pakistan. Before that, I was a Senior Research Associate at Innovations for Poverty Action in Peru and Paraguay.
 
 ### Contact
 
-You can contact me at: [gustavoa@umich.edu](mailto:gustavoa@umich.edu?subject=[GitHub]%20Source%20Han%20Sans)
-
+You can contact me at [gustavoa@umich.edu](mailto:gustavoa@umich.edu).
