@@ -7,10 +7,8 @@ excerpt: "Working papers, research in progress, publications, and policy work by
 ---
 
 <div class="research-page">
-  <section class="research-hero" aria-labelledby="research-agenda-title">
-    <p class="research-eyebrow">Research agenda</p>
-    <h2 id="research-agenda-title">Human capital, health, safety, and labor markets</h2>
-    <p class="research-lede">My research combines field experiments and applied microeconomics to study how institutions, information, and public policy shape economic opportunity.</p>
+  <section class="research-hero" aria-label="Research fields and page sections">
+    <p class="research-eyebrow">Research fields</p>
     <div class="research-fields" aria-label="Research fields">
       <p><span>Primary fields</span> Development Economics &middot; Labor Economics</p>
       <p><span>Secondary fields</span> Behavioral and Experimental Economics &middot; Health Economics</p>
