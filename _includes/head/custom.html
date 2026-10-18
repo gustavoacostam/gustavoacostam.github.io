@@ -1,5 +1,20 @@
 <!-- start custom head snippets -->
 
+<script>
+  (function () {
+    var theme = "dark";
+
+    try {
+      if (window.localStorage.getItem("site-theme") === "light") {
+        theme = "light";
+      }
+    } catch (error) {}
+
+    document.documentElement.setAttribute("data-theme", theme);
+  }());
+</script>
+<meta name="theme-color" content="#111416">
+
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
