@@ -272,6 +272,14 @@ thead {
   display: block;
 }
 
+@media (min-width: 925px) {
+  .author__urls {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+}
+
 @media (max-width: 420px) {
   .masthead__inner-wrap {
     padding-right: 0.7rem;
