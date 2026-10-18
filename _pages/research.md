@@ -17,7 +17,7 @@ excerpt: "Working papers, research in progress, publications, and policy work by
     </div>
     <nav class="research-jump" aria-label="Research page sections">
       <a href="#working-papers">Working Papers</a>
-      <a href="#work-in-progress">Work in Progress</a>
+      <a href="#work-in-progress">Selected Work in Progress</a>
       <a href="#publications">Publications</a>
       <a href="#policy-media">Policy &amp; Media</a>
     </nav>
@@ -82,47 +82,41 @@ excerpt: "Working papers, research in progress, publications, and policy work by
     <div class="research-section-heading">
       <div>
         <p class="research-eyebrow">Active projects</p>
-        <h2 id="work-in-progress">Work in Progress</h2>
+        <h2 id="work-in-progress">Selected Work in Progress</h2>
       </div>
     </div>
 
     <div class="research-project-grid">
       <article class="research-project">
         <p class="research-status">Pilot completed &middot; Data collection scheduled for 2026</p>
-        <h3>Enhancing Women's Safety in Public Spaces (Second-Year Proposal): Training Community Volunteers to Reduce Gender-Based Violence in Peru.<sup>*1</sup></h3>
+        <h3>Measuring and Addressing Gender-Based Harassment in Public Spaces: Experimental Evidence from Developing Cities.<sup>*1</sup></h3>
         <p>With Marcia Ruiz.</p>
         <a href="https://www.socialscienceregistry.org/trials/19317" target="_blank" rel="noopener">AEA RCT Registry: AEARCTR-0019317 <span aria-hidden="true">&#8599;</span></a>
       </article>
       <article class="research-project">
         <p class="research-status">Midline completed &middot; Data collection scheduled for 2026</p>
-        <h3>Sustaining Public Infrastructure: A Gender-Informed Behavioral Intervention for Housing Maintenance in Peru.<sup>*1</sup></h3>
-        <p>With Marcia Ruiz and Emily Saavedra.</p>
+        <h3>From Gendered Spheres to Shared Responsibility: An Experiment on the Maintenance of Household Capital in Peru.<sup>*1</sup></h3>
+        <p>With Marcia Ruiz.</p>
         <a href="https://www.socialscienceregistry.org/trials/19332" target="_blank" rel="noopener">AEA RCT Registry: AEARCTR-0019332 <span aria-hidden="true">&#8599;</span></a>
       </article>
       <article class="research-project">
-        <p class="research-status">Baseline completed &middot; Endline scheduled for 2026</p>
-        <h3>Targeting Men to Reduce Domestic Violence: An Evaluation of Men for Equality.<sup>*3</sup></h3>
-        <p>With Erica Field.</p>
-      </article>
-      <article class="research-project">
         <p class="research-status">Pilot completed &middot; Data collection scheduled for 2026</p>
-        <h3>Sustaining Shared Urban Sanitation in Uganda.<sup>*1</sup></h3>
+        <h3>Keeping the Commons Clean: Experimental Evidence on Prosocial Motivation, Coordination, and Monitoring in Uganda.<sup>*1</sup></h3>
         <p>With Marcia Ruiz and Laston Manja.</p>
       </article>
       <article class="research-project">
         <p class="research-status">Pilot completed &middot; Data collection scheduled for 2026</p>
-        <h3>The Price of Safety: The Effects of Extortion on Small-Scale Entrepreneurship in Peru.<sup>*1</sup></h3>
+        <h3>Extortion and Firm Decisions in Peru: Measurement, Field Experiments, and a Dynamic Model.<sup>*1</sup></h3>
         <p>With Gabby Lecaro.</p>
       </article>
       <article class="research-project">
-        <p class="research-status">Implementation funding secured &middot; Fieldwork preparation underway for 2026</p>
-        <h3>Formal Savings Adoption Among Vulnerable Populations in Colombia: Evidence from a Banca de las Oportunidades Intervention.<sup>*1</sup></h3>
-        <p>With Tommaso Crosta.</p>
-      </article>
-      <article class="research-project">
-        <p class="research-status">Work in progress</p>
         <h3>Targeted School Benefits and Student Sorting: Evidence from Peru.<sup>*1</sup></h3>
         <p>With Muchin Bazan and Maria Ferro.</p>
+      </article>
+      <article class="research-project">
+        <p class="research-status">Baseline completed &middot; Endline data collection scheduled for 2026</p>
+        <h3>Targeting Men to Reduce Domestic Violence: An Evaluation of Men for Equality.<sup>*3</sup></h3>
+        <p>With Erica Field.</p>
       </article>
       <article class="research-project">
         <p class="research-status">Baseline completed</p>
@@ -131,7 +125,7 @@ excerpt: "Working papers, research in progress, publications, and policy work by
       </article>
     </div>
 
-    <p class="research-legend"><sup>*1</sup> Coauthored with Peer Graduate Students. <sup>*2</sup> Coauthored with Faculty and Peer Graduate Students. <sup>*3</sup> Coauthored with Faculty.</p>
+    <p class="research-legend"><sup>*1</sup> Coauthored with peer graduate students. <sup>*2</sup> Coauthored with faculty and peer graduate students. <sup>*3</sup> Coauthored with faculty.</p>
   </section>
 
   <section class="research-section" aria-labelledby="publications">
@@ -155,6 +149,13 @@ excerpt: "Working papers, research in progress, publications, and policy work by
         <div>
           <h3><a href="https://revistas.up.edu.pe/index.php/apuntes/article/view/1228/1525" target="_blank" rel="noopener">Impact of the Qali Warma School Feeding Program on Chronic Child Malnutrition <span aria-hidden="true">&#8599;</span></a></h3>
           <p>G. Acosta and P. Francke. <em>Apuntes</em>.</p>
+        </div>
+      </article>
+      <article>
+        <span>2020</span>
+        <div>
+          <h3><a href="http://www.scielo.org.pe/pdf/rmh/v31n3/1729-214X-rmh-31-03-148.pdf" target="_blank" rel="noopener">Impact of Micronutrients 'Sprinkles' on Chronic Childhood Malnutrition in Peru <span aria-hidden="true">&#8599;</span></a></h3>
+          <p>G. Acosta and P. Francke. <em>Revista M&eacute;dica Herediana</em>.</p>
         </div>
       </article>
     </div>
