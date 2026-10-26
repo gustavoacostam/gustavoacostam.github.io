@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% assign cv_version = "20261020" %}
+{% assign cv_version = "20261026" %}
 
 You can view or download my current CV here:
 
